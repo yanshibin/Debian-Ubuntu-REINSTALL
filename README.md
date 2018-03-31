@@ -1,5 +1,5 @@
 # fork fome https://moeclub.org/2017/03/25/82/
-`wget --no-check-certificate -qO DebianNET.sh 'https://raw.githubusercontent.com/yanshibin/Debian-Ubuntu-REINSTALL/master/DebianNET.sh' && chmod -x DebianNET.sh`  
+`wget --no-check-certificate -qO DebianNET.sh 'https://raw.githubusercontent.com/yanshibin/Debian-Ubuntu-REINSTALL/master/DebianNET.sh' && chmod -x DebianNET.sh && bash DebianNET.sh -d jessie -v amd64`  
 
 | 使用: | 安装Debian 7                        |  安装Debian 8                            |安装Debian 9|
 | :-----|:----------------------------------:| :---------------------------------------:|:------------------:|
